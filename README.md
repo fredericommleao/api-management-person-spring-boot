@@ -16,6 +16,7 @@ http://localhost:8090/person
   "nome": "fred",
   "dataNascimento": "23/02/2003"
 }
+```
 
 
 GET /person
@@ -35,15 +36,15 @@ URL example
 http://localhost:8090/person/2/addresses
 
 
-Request body
-
+###Request body
+```json
 {
     "logradouro" : "rua 15 rc 14 quuadra 22 , casa 2020 ",
     "cep" : "23/02/2000",
     "numero" : "443434",
     "cidade" : "goiania sao paulo"
 }
-
+```
 
 GET /person/{id}/full
 Retrieve addresses for a person by ID.
@@ -101,15 +102,15 @@ URL example
 http://localhost:8090/person/1
 
 
-Request body
-
+###Request body
+```json
 
 
 {
 	"nome" : "pessoa de novo" ,
 	"dataNascimento" : "23/02/2000"
 }
-
+```
 
 
 
