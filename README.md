@@ -2,7 +2,11 @@
 
 ## Preview
 
-#### aaaaaaaaaa
+#### API desenvolvida com spring-boot para o gerenciamento de cadastro de pessoas e o seu endereco,
+#### foi utilizado o spring web e o banco de dados H2, na parte de teste foi utilizado o Junit e Mockito 
+#### para testes unitário nas classes de controllers e services.
+
+
 
 ## Endpoints
 
