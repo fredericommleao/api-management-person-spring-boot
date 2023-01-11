@@ -10,16 +10,15 @@ example url:
 
 http://localhost:8090/person
 
-#### Request body
+Request body
 ```json
 {
   "nome" : "fred" ,
   "dataNascimento" : "23/02/2003"
 }
-```json
+
 dataNascimento deve ser passado no formato: dd/mm/aaaa
 caso contrário não será criado o usuário
-
 
 
 
