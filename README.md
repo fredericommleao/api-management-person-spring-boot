@@ -19,14 +19,14 @@ http://localhost:8090/person
 ```
 
 
-GET /person
+###GET /person
 Retrieve a list of all people.
 
 URL example
 
 http://localhost:8090/person
 
-POST /person/{id}/addresses
+###POST /person/{id}/addresses
 Create a new address for a person by ID.
 
 Path parameters
@@ -46,7 +46,7 @@ http://localhost:8090/person/2/addresses
 }
 ```
 
-GET /person/{id}/full
+###GET /person/{id}/full
 Retrieve addresses for a person by ID.
 
 Path parameters
@@ -57,7 +57,7 @@ URL example
 http://localhost:8090/person/2/full
 
 
-PUT /person/{id}/address/{address_id}/primary
+###PUT /person/{id}/address/{address_id}/primary
 Update primary address for a person by ID.
 
 Path parameters
@@ -70,7 +70,7 @@ URL example
 http://localhost:8090/person/1/address/2/primary
 
 
-GET /person/{id}/addresses/primary
+###GET /person/{id}/addresses/primary
 Retrieve primary address for a person by ID.
 
 Path parameters
@@ -81,7 +81,7 @@ URL example
 http://localhost:8090/person/1/addresses/primary
 
 
-GET /person/{id}
+###GET /person/{id}
 Retrieve a person by ID.
 
 Path parameters
@@ -91,7 +91,7 @@ URL example
 
 http://localhost:8090/person/1
 
-PUT /person/{id}
+###PUT /person/{id}
 Update a created person by ID.
 
 Path parameters
