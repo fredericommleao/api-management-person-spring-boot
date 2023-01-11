@@ -21,37 +21,6 @@ dataNascimento deve ser passado no formato: dd/mm/aaaa
 caso contrário não será criado o usuário
 
 
-### GET/list person
-Esse endpoint é responsável por listar todas as pessoas criadas,
-
-example url:
-
-http://localhost:8090/person
-
-resultado esperado:
-```json
-[
-    {
-        "id": 1,
-        "listAddress": [
-            {
-                "id": null,
-                "logradouro": "O endereco ainda não foi cadastrado",
-                "cep": null,
-                "numero": null,
-                "cidade": null,
-                "principal": false
-            }
-        ],
-        "nome": "fred",
-        "dataNascimento": "2003-02-23"
-    }
-]
-
-
-
-
-
 
 
 
