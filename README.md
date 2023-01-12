@@ -2,9 +2,7 @@
 
 ### 1 - Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
 
-#### R: testes unitários, clean architecture( ou pelo menos o principios de responsabilidade única e aberto/fechado do SOLID), 
-#### o design pattern a ser utilizado e uma boa documentação em relação a funcionalidade, com essas práticas podemos garantir uma melhor manutenibilidade
-#### do código o que impacta diramente na sua qualidade.
+#### R: testes unitários, clean architecture( ou pelo menos o principios de responsabilidade única e aberto/fechado do SOLID),o design pattern a ser utilizado e uma boa documentação em relação a funcionalidade, com essas práticas podemos garantir uma melhor manutenibilidade do código o que impacta diretamente na sua qualidade.
 
 
 ### 2. Em qual etapa da implementação você considera a qualidade de software?
