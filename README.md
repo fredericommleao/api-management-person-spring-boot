@@ -7,7 +7,7 @@
 
 ## 2. Em qual etapa da implementação você considera a qualidade de software?
 	
-#### Desde a primeira etapa do ciclo de vida do software, ou seja, no levantamento de requisitos do usuário, pois é em cima dos requisitos que teremos os primeiros casos de uso do software, que posteriormente viram a ser os UMLs/diagramas.
+#### R: Desde a primeira etapa do ciclo de vida do software, ou seja, no levantamento de requisitos do usuário, pois é em cima dos requisitos que teremos os primeiros casos de uso do software, que posteriormente viram a ser os UMLs/diagramas.
 
 
 
